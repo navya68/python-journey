@@ -1,0 +1,36 @@
+# My First Step in Python 🐍
+
+Hi there! 👋  
+
+I’m starting this repository to share what I’m learning about Python — and I thought, why not begin at the very beginning: **its history**.  
+Before diving into writing code, I wanted to know *where Python came from* and *why it’s so popular today*.  
+
+---
+
+## 📜 A Brief History of Python
+
+Python was created by **Guido van Rossum** in the late 1980s and officially released in **1991**.  
+He wanted a language that was:
+
+- Easy to read  
+- Quick to write  
+- Powerful enough to solve real-world problems  
+
+And that’s exactly what Python became.  
+
+**Timeline:**
+
+- **Late 1980s** – Guido starts developing Python at CWI in the Netherlands.  
+- **1991** – Python 0.9.0 is released with core features like functions, exception handling, and data types.  
+- **2000** – Python 2.0 arrives, introducing list comprehensions and garbage collection.  
+- **2008** – Python 3.0 launches with cleaner syntax and better Unicode support (but not backward compatible).  
+- **Today** – Python is everywhere: web development, data science, AI, automation, and more!  
+
+---
+
+## 🚀 What’s Next?
+
+This is just the beginning of my Python journey.  
+I’ll be adding more notes, examples, and projects as I learn.  
+
+Stay tuned! 😊
